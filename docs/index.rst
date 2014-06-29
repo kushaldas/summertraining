@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
    communication
+   faq
 
 
 Indices and tables
