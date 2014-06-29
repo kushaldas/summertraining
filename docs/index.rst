@@ -13,6 +13,7 @@ Contents:
 
    communication
    faq
+   shell
 
 
 Indices and tables
