@@ -27,3 +27,20 @@ How long a session runs?
 
 It depends on that particular class, generally 1-1.5 hour but some sessions went
 upto 3 hours. Though long sessions happen very rare.
+
+How long is the summer training?
+---------------------------------
+
+It runs for around three months.
+
+Will the session details be sent to the mailing list?
+------------------------------------------------------
+
+Yes, we do send the details based on the sessions. Remember to keep an eye on the
+mailing list.
+
+In case I miss some class how do I catch up?
+---------------------------------------------
+
+Read the logs if available or ask for log from a friend. Most things will be taught
+have detailed docs available.
