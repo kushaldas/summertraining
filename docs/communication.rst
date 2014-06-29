@@ -59,3 +59,9 @@ How to ask a question?
 
 First read `this document <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
 to search in google and then only ask.
+
+More logs to read
+------------------
+
+- `Log 1 <http://dgplug.org/irclogs/mbuf_1stclass.log>`_
+- `Log 2 <http://dgplug.org/irclogs/mbuf_2ndclass.log>`_
