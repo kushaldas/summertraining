@@ -22,6 +22,12 @@ What all do we require for this training?
 - A fast Internet connection
 - Any Linux distribution, if you have only Windows, you can install it in a VM (say virtualbox).
 
+How do i get the logs?
+-----------------------
+
+Find all the old logs at http://dgplug.org/irclogs/
+
+
 How long a session runs?
 -------------------------
 
@@ -44,3 +50,25 @@ In case I miss some class how do I catch up?
 
 Read the logs if available or ask for log from a friend. Most things will be taught
 have detailed docs available.
+
+
+Do we need to learn something beforehand for this training?
+------------------------------------------------------------
+
+Not really, if you follow the sessions properly you can learn while the training
+is going on.
+
+How many sessions happen in a day?
+-----------------------------------
+
+Generally one only, very rarely there will be more than one session in a day.
+
+Will be the time same for all the sessions ?
+----------------------------------------------
+
+Nope, it may change on each session.
+
+If I have to leave class early, should I announce it mid class?
+---------------------------------------------------------------
+
+Yes, just inform that and leave.
