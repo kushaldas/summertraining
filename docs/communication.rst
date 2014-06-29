@@ -40,3 +40,17 @@ Please join in our `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgp
 Remember not to do top post but only reply inline.
 
 TODO: Add examples of both toppost and inline.
+
+Rules for the sessions
+-----------------------
+
+- Do not speak when the session is going on.
+- If you have a question type *!* and wait for your turn.
+- Try to come online 5 minutes before the session starts.
+
+
+How to ask a question?
+-----------------------
+
+First read `this guide <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
+to search in google and then only ask.
