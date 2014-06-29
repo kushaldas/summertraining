@@ -15,12 +15,12 @@ Clients
 How to use IRC?
 ----------------
 
-Read `this guide<https://fedoraproject.org/wiki/How_to_use_IRC>`_.
+Read `how to register your nickname <https://fedoraproject.org/wiki/How_to_use_IRC>`_.
 
 Register your nickname
 -----------------------
 
-Remember to register your nickname, you can follow `this guide<http://www.wikihow.com/Register-a-User-Name-on-Freenode>`_.
+Remember to register your nickname, you can follow `this guide <http://www.wikihow.com/Register-a-User-Name-on-Freenode>`_.
 
 Rules to follow
 ---------------
@@ -57,5 +57,5 @@ Rules for the sessions
 How to ask a question?
 -----------------------
 
-First read `this guide <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
+First read `this document <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
 to search in google and then only ask.
