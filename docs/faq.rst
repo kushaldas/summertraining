@@ -1,7 +1,7 @@
-faq
+FAQ
 ====
 
-They are  not in any particular order.
+The questions  are  not in any particular order.
 
 What all topics would be covered?
 ----------------------------------
