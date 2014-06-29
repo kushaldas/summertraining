@@ -38,20 +38,56 @@ Though are few sort forms which are acceptable in IRC.
 |  iirc       |If I remember correctly|
 +-------------+-----------------------+
 
+For more `Abbreviations Commonly Used on IRC <http://www.ircbeginner.com/ircinfo/abbreviations.html>`_.
+
 Mailing list
 -------------
 
 Please join in our `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgplug.org>`_.
 Remember not to do top post but only reply inline.
+To avoid top post use E-mail client (Thunderbird, Evolution).
 
-TODO: Add examples of both toppost and inline.
+- Top post reply::
+
+    Hello,
+
+    Please refer to <http://dgplug.org/irclogs/2014/session01-welcomeandcommunication.txt>
+    for yesterday's training logs.
+
+    The timing of the today's class is 06:30 P.M. (IST).
+
+    Bar
+
+    -- Foo<foo at gmail.com> wrote:
+    > i have missed the yesterday's training class.
+    > Where can i get the yesterday class's log?
+    > What is the timing of the today's class?
+
+- Inline reply::
+
+    Hello,
+
+    -- Foo<foo at gmail.com> wrote:
+    > i have missed the yesterday's training class.
+    > Where can i get the yesterday class's log?
+
+    Please refer to <http://dgplug.org/irclogs/2014/session01-welcomeandcommunication.txt>
+    for yesterday's training logs.
+
+    > What is the timing of the today's class?
+
+    The timing of the today's class is 06:30 P.M. (IST).
+
+    Bar
 
 Rules for the sessions
 -----------------------
 
 - Do not speak when the session is going on.
-- If you have a question type *!* and wait for your turn.
+- If you have a question type **!** and wait for your turn.
 - Try to come online 5 minutes before the session starts.
+- Address people by their IRC nick.
+- Do not use sir and madam.
 
 
 How to ask a question?
