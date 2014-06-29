@@ -12,6 +12,11 @@ Clients
 - webchat
 - Waartaa
 
+How to use IRC?
+----------------
+
+Read `this guide<https://fedoraproject.org/wiki/How_to_use_IRC>`_.
+
 Rules to follow
 ---------------
 
@@ -27,3 +32,11 @@ Though are few sort forms which are acceptable in IRC.
 +-------------+-----------------------+
 |  iirc       |If I remember correctly|
 +-------------+-----------------------+
+
+Mailing list
+-------------
+
+Please join in our `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgplug.org>`_.
+Remember not to do top post but only reply inline.
+
+TODO: Add examples of both toppost and inline.
