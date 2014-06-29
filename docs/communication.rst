@@ -17,6 +17,11 @@ How to use IRC?
 
 Read `this guide<https://fedoraproject.org/wiki/How_to_use_IRC>`_.
 
+Register your nickname
+-----------------------
+
+Remember to register your nickname, you can follow `this guide<http://www.wikihow.com/Register-a-User-Name-on-Freenode>`_.
+
 Rules to follow
 ---------------
 
