@@ -7,10 +7,10 @@ main communication medium for many FOSS projects.
 Clients
 --------
 
-- xchat
-- hexchat
-- webchat
-- Waartaa
+- `XChat <http://xchat.org/docs/start/>`_
+- `HexChat <http://hexchat.readthedocs.org/en/latest/>`_
+- `webchat <http://webchat.freenode.net/>`_
+- `Waartaa <https://www.waartaa.com/>`_
 
 How to use IRC?
 ----------------
