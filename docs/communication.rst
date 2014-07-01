@@ -25,6 +25,8 @@ Remember to register your nickname, you can follow `this guide <http://www.wikih
 Rules to follow
 ---------------
 
+Be nice to others. 
+
 Always type full English words, no sms speak in any FOSS communications. That
 means no more 'u' or 'r', instead type 'you' or 'are'.
 
