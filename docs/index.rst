@@ -14,6 +14,7 @@ Contents:
    communication
    faq
    shell
+   fhs
 
 
 Indices and tables
