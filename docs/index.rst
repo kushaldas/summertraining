@@ -15,6 +15,7 @@ Contents:
    faq
    shell
    fhs
+   mercurial
 
 
 Indices and tables
