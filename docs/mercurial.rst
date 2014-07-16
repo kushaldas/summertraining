@@ -67,3 +67,18 @@ We can see the commit log now.::
     user:        Kushal Das <kushaldas@gmail.com>
     date:        Mon Jul 14 20:00:14 2014 +0530
     summary:     First change.
+
+Difference between two revisions
+---------------------------------
+
+Using `hg diff` command we can actually see what all changed between two revisions.::
+
+    $  hg diff -r 0:1
+    diff -r a4754244eb89 -r 48bfb8a095cb hello.txt
+    --- a/hello.txt Mon Jul 14 20:00:14 2014 +0530
+    +++ b/hello.txt Mon Jul 14 20:29:59 2014 +0530
+    @@ -1,1 +1,1 @@
+    -Hello World.
+    +Hello World!
+
+Now think how to do the same for one particular file! :)
