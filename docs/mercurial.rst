@@ -115,3 +115,9 @@ I am running the command as given there.::
     remote: adding manifests
     remote: adding file changes
     remote: added 5 changesets with 5 changes to 3 files
+
+Now you can also create a file at **.hg/hgrc** so that you can just push/pull from
+you repository easily.::
+
+    [paths]
+    default = ssh://hg@bitbucket.org/kushaldas/myproject
