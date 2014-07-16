@@ -87,7 +87,11 @@ Bitbucket
 ----------
 
 Visit `the site <https://bitbucket.org/>`_ and create an account there. After you login
-click on the Create button on the top menu to create a new repository. See the screenshot
+goto to manage account and add your ssh key there.
+
+.. image:: _static/bitbucket4.png
+
+Now click on the Create button on the top menu to create a new repository. See the screenshot
 below.
 
 .. image:: _static/bitbucket1.png
