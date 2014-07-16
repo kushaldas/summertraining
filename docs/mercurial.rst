@@ -82,3 +82,32 @@ Using `hg diff` command we can actually see what all changed between two revisio
     +Hello World!
 
 Now think how to do the same for one particular file! :)
+
+Bitbucket
+----------
+
+Visit `the site <https://bitbucket.org/>`_ and create an account there. After you login
+click on the Create button on the top menu to create a new repository. See the screenshot
+below.
+
+.. image:: _static/bitbucket1.png
+
+Now create the repository, which will bring you to the next screen. As we already have
+a repository in our computer, we will use the second link there.
+
+.. image:: _static/bitbucket2.png
+
+This will show the command required to push it to the repository so that everyone
+can view it.
+
+.. image:: _static/bitbucket3.png
+
+I am running the command as given there.::
+
+    $ hg push ssh://hg@bitbucket.org/kushaldas/myproject
+    pushing to ssh://hg@bitbucket.org/kushaldas/myproject
+    searching for changes
+    remote: adding changesets
+    remote: adding manifests
+    remote: adding file changes
+    remote: added 5 changesets with 5 changes to 3 files
