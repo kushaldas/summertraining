@@ -51,3 +51,44 @@ to */tmp* directory in our example.::
 Here you can see that first we moved to */tmp* directory, and then we moved back to the home directory by using
 *~* character.
 
+ls command
+----------
+
+We use *ls* command to view the files and directories inside any given directory. If you use *ls* command
+without any argument, then it will work on the current directory. We will see few examples of the command
+below.::
+
+    [babai@kdas-laptop ~]$ ls
+    Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+    [babai@kdas-laptop ~]$ ls /tmp/
+    cpython           systemd-private-759094c89c594c07a90156139ec4b969-colord.service-hwU1hR
+    hogsuspend        systemd-private-759094c89c594c07a90156139ec4b969-rtkit-daemon.service-AwylGa
+    hsperfdata_babai  tracker-extract-files.1000
+    plugtmp           tracker-extract-files.1002
+    [babai@kdas-laptop ~]$ ls /
+    bin   cpython  etc   lib    lost+found  mnt  proc  run   srv  sysroot  usr
+    boot  dev      home  lib64  media       opt  root  sbin  sys  tmp      var
+
+In the last two commands we provided a path as the argument to the *ls* command. */* is a special
+directory, which represents root directory in Linux filesystem. You will know more in the next chapter.
+
+mkdir command
+-------------
+
+We can create new directories using *mkdir* command. For our example we will create a *code* directory
+in our home directory.::
+
+    [babai@kdas-laptop ~]$ mkdir code
+    [babai@kdas-laptop ~]$ ls
+    code  Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos
+
+We can also create directories in a recursive way using -p option.::
+
+    [babai@kdas-laptop ~]$ mkdir -p dir1/dir2/dir3
+    [babai@kdas-laptop ~]$ ls dir1/ dir1/dir2/ 
+    dir1/:
+    dir2
+
+    dir1/dir2/:
+    dir3
+
