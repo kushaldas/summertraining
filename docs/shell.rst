@@ -104,6 +104,27 @@ rm command
 
     dir1/dir2/:
 
+tree command
+-------------
+
+*tree* command prints the directory structure in a nice visual tree design way.::
+
+    [babai@kdas-laptop ~]$ tree
+    .
+    ├── code
+    ├── Desktop
+    ├── dir1
+    │   └── dir2
+    ├── Documents
+    ├── Downloads
+    ├── Music
+    ├── Pictures
+    │   └── terminal1.png
+    ├── Public
+    ├── Templates
+    └── Videos
+
+
 
 
 
