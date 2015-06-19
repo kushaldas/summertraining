@@ -16,6 +16,7 @@ Contents:
    shell
    fhs
    mercurial
+   xchat
 
 
 Indices and tables
