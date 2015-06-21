@@ -17,6 +17,7 @@ Contents:
    fhs
    mercurial
    xchat
+   vim
 
 
 Indices and tables

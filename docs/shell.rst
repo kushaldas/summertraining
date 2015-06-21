@@ -123,21 +123,3 @@ tree command
     ├── Public
     ├── Templates
     └── Videos
-
-
-
-vi or vim editor
------------------
-
-We use vi or vim editor to create/edit text files. For many of the dgplug's member it is the de-facto editor
-for programming. You can learn about vim by reading these following logs.
-
-
-
-
-
-
-
-
-
-
