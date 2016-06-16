@@ -6,7 +6,7 @@ The questions  are  not in any particular order.
 What all topics would be covered?
 ----------------------------------
 
-`This page <http://wiki.dgplug.org/index.php/SummerTraining>`_ contains details about the topics covered in the training.
+`This page <https://dgplug.org/summertraining16/>`_ contains details about the topics covered in the training.
 
 How to subscribe to the mailing list?
 --------------------------------------
