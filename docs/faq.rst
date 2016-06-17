@@ -1,6 +1,9 @@
 FAQ
 ====
 
+.. contents:: Table of Contents
+   :depth: 2
+
 The questions  are  not in any particular order.
 
 What all topics would be covered?
