@@ -18,7 +18,7 @@ For Ubuntu:
 ::
     # apt-get install xchat
 
-Read `how to register your nickname <https://freenode.net/faq.shtml#registering>`_.
+Read `how to register your nickname <https://freenode.net/kb/answer/registration>`_.
 
 Configurations Steps
 --------------------
