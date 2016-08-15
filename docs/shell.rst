@@ -95,9 +95,9 @@ We can also create directories in a recursive way using -p option.::
 rm command
 ----------
 
-*rm* command is used to remove a file, or directory. The -rf option is being used to remove in a recursive way.::
+*rm* command is used to remove a file, or directory. The -r option is being used to remove in a recursive way.::
 
-    [babai@kdas-laptop ~]$ rm -rf dir1/dir2/dir3
+    [babai@kdas-laptop ~]$ rm -r dir1/dir2/dir3
     [babai@kdas-laptop ~]$ ls dir1/ dir1/dir2/ 
     dir1/:
     dir2
