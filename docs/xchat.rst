@@ -1,10 +1,18 @@
-XChat
-=====
+IRC clients
+===========
 
-XChat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
+There are vairous IRC clients, for our sessions you can use either xchat or hexchat client
+on your computer.
+
+
+XChat or hexchat
+================
+
+XChat/hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
 document interface or tree interface, support for multiple servers and is highly
 configurable.
 
+- `hexchat <https://hexchat.github.io/>`_
 - `XChat <http://xchat.org/docs/start/>`_
 
 How to install?
@@ -12,11 +20,13 @@ How to install?
 
 For Fedora:
 ::
-    # yum install xchat
+    # dnf install xchat
 
 For Ubuntu:
 ::
     # apt-get install xchat
+
+For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
 
 Read `how to register your nickname <https://freenode.net/faq.shtml#registering>`_.
 

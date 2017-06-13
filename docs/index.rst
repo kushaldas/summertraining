@@ -12,11 +12,11 @@ Contents:
    :maxdepth: 2
 
    communication
+   xchat
    faq
    shell
    fhs
    mercurial
-   xchat
    vim
 
 
