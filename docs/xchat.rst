@@ -28,7 +28,6 @@ For Ubuntu:
 
 For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
 
-Read `how to register your nickname <https://freenode.net/faq.shtml#registering>`_.
 
 Configurations Steps
 --------------------
