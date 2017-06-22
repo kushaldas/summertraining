@@ -9,7 +9,7 @@ The questions are not in any particular order.
 What are the topics covered?
 ----------------------------
 
-`This page <https://dgplug.org/summertraining16/>`_ contains details about the topics covered in the training.
+`This page <https://dgplug.org/summertraining17/>`_ contains details about the topics covered in the training.
 
 How do I subscribe to the mailing list?
 ---------------------------------------
