@@ -9,7 +9,7 @@ How to install?
 
 For Fedora:
 ::
-  $ sudo yum install vim
+  $ sudo dnf install vim
 
 For Ubuntu
 ::
