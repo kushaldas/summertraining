@@ -41,3 +41,12 @@ computers. Typing efficiently and fast will help you through out the life.
 
 `Here is a blog post <https://kushaldas.in/posts/touch-typing.html>`_ to find out
 more about the topic.
+
+
+History of Free and Open Source Software
+-----------------------------------------
+
+Read `this post <https://kushaldas.in/pages/hacker-ethic-and-free-software-movement.html>`_
+to learn about the history, then also read `this log <https://dgplug.org/irclogs/2017/Logs-2017-09-20-15-56.txt>`_
+to hear from Jim Blandy about his experience. Free Software movement is the reason why
+we have this community standing together. So, make sure to go through the history first.
