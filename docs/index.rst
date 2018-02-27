@@ -17,6 +17,9 @@ Contents:
    faq
    vim
 
+To learn about commands of a GNU/Linux system, start reading 
+`Linux command line for you and me <https://lym.readthedocs.io/en/latest/>`_ book.
+
 
 Indices and tables
 ==================
