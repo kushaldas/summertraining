@@ -30,3 +30,14 @@ possible along with the question. If the error message is more than 2 lines,
 then one should use a pastebin server (like `Fedora modernpaste service
 <https://paste.fedoraproject.org/>`_) and paste the whole error message there,
 and then only provide the URL to the pastebin in the question.
+
+Learn touch typing
+-------------------
+
+`Touch typing <https://en.wikipedia.org/wiki/Touch_typing>`_ is one of the most
+important thing to learn before you jump into programming or commands to control
+a server. Typing errors are the most common cause behind the errors we get in
+computers. Typing efficiently and fast will help you through out the life.
+
+`Here is a blog post <https://kushaldas.in/posts/touch-typing.html>`_ to find out
+more about the topic.
