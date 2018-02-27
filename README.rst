@@ -1,1 +1,0 @@
-dgplug Summer Training Curriculum
