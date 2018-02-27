@@ -27,6 +27,6 @@ If you just come online and ask help by saying "I have an error.", no one will
 be able to help you. Because, we need to see the exact error you can see in
 your computer. Best way to ask for help is by providing as much information as
 possible along with the question. If the error message is more than 2 lines,
-then one should use a pastebin server (like `Fedora modernpate service
+then one should use a pastebin server (like `Fedora modernpaste service
 <https://paste.fedoraproject.org/>`_) and paste the whole error message there,
 and then only provide the URL to the pastebin in the question.
