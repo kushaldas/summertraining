@@ -14,9 +14,6 @@ Contents:
    communication
    xchat
    faq
-   shell
-   fhs
-   mercurial
    vim
 
 
