@@ -90,13 +90,14 @@ Rules for the sessions
 - Try to come online 5 minutes before the session starts.
 - Address people by their IRC nick.
 - Do not use sir and madam.
+- Do not use SMS language, write full English words.
 
 
 How to ask a question?
 -----------------------
 
 First read `this document <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
-to search in google and then only ask.
+to search in DuckDuckGo and then only ask.
 
 More logs to read
 ------------------
