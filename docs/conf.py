@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'dgplug Summer Training'
-copyright = u'2014, Kushal Das'
+copyright = u'2014-2018, Kushal Das'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
