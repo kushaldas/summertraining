@@ -18,7 +18,7 @@ Do not assume pronouns of people
 ---------------------------------
 
 Do not try to assume which pronoun to use while talking to someone. It is much nicer if you use gender neutral words (or the names) in any type
-of communication. `This guide <https://uwm.edu/lgbtrc/support/gender-pronouns/>` has more details which one should read.
+of communication. `This guide <https://uwm.edu/lgbtrc/support/gender-pronouns/>`_ has more details which one should read.
 
 
 Different mediums of online communication
