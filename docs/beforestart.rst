@@ -50,3 +50,12 @@ Read `this post <https://kushaldas.in/pages/hacker-ethic-and-free-software-movem
 to learn about the history, then also read `this log <https://dgplug.org/irclogs/2017/Logs-2017-09-20-15-56.txt>`_
 to hear from Jim Blandy about his experience. Free Software movement is the reason why
 we have this community standing together. So, make sure to go through the history first.
+
+
+Download Tor browser
+---------------------
+
+The next important step is to `download Tor Browser <https://www.torproject.org/projects/torbrowser.html.en>`_.
+To start using it, follow `these steps <https://www.torproject.org/projects/torbrowser.html.en#linux>`_. You may have a
+lot of questions about `Why should we use Tor?`, through out the summer training we will
+have many discussions on this. But, to understand the basics, have a look at this `page <https://www.eff.org/pages/tor-and-https>`_.
