@@ -24,7 +24,7 @@ For Fedora:
 
 For Ubuntu:
 ::
-    # apt-get install xchat
+    # apt-get install hexchat
 
 For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
 
