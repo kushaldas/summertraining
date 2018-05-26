@@ -1,7 +1,27 @@
+IRC on the Web
+==============
+While a client (xchat, hexchat, etc), on any platform, is the best way to experience IRC on a daily basis, 
+you can in fact use your web browser to connect to IRC!
+
+While it might not be as comfortable as a native client, irc via a browser is actually quite full featured.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IRC clients
 ===========
 
-There are various IRC clients, for our sessions you can use either xchat or hexchat client
+There are vairous IRC clients, for our sessions you can use either xchat or hexchat client
 on your computer.
 
 
