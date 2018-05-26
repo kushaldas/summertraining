@@ -19,77 +19,67 @@ Step 1. The Browser
 -------------------
 Congratulations!
 
-You’ve already have one and are successfully connected :)
+You’ve already have one and are successfully connected, if you :)
 
-Step 2. A username for irc. 
+Step 2. A username for IRC.
+---------------------------
 
+Let’s mosey over to the `freenode website <https://webchat.freenode.net>`_
 
-.. [#] A very good place to start!
+|
 
-
-
-
-
-
-
-
-
-IRC clients
-===========
-
-There are vairous IRC clients, for our sessions you can use either xchat or hexchat client
-on your computer.
-
-
-XChat or hexchat
-================
-
-XChat/hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
-document interface or tree interface, support for multiple servers and is highly
-configurable.
-
-- `hexchat <https://hexchat.github.io/>`_
-- `XChat <http://xchat.org/docs/start/>`_
-
-How to install?
----------------
-
-For Fedora:
-::
-    # dnf install xchat
-
-For Ubuntu:
-::
-    # apt-get install xchat
-
-For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
-
-
-Configurations Steps
---------------------
-
-Default xchat will open in network selection window where you have to select *FreeNode* and then connect.
-
-.. figure:: img/xchat1.png
+.. figure:: https://files.janusworx.com/webirc/webirc-1.png
    :width: 600px
    :align: center
 
-After connect you will see connection complete window where you have option to join channel (provide *dgplug*)
+| 
 
-.. figure:: img/xchat2.png
+Login with the username you want like I’ve done here.
+
+Ignore the channel and auth options for now.  
+
+Just clear the I am not a robot test 
+
+|  
+
+
+
+.. figure:: https://files.janusworx.com/webirc/webirc-2.png
    :width: 600px
    :align: center
 
-After pressing OK, you are now in main window and joined *dgplug* channel. Now you have register your nickname to make sure someone else not using it.
 
-.. figure:: img/xchat3.png
+|
+
+And you should enter the world of irc!
+
+There’ll be a lot of stuff that’ll end with a screen like this.
+
+|
+
+.. figure:: https://files.janusworx.com/webirc/webirc-3.png
    :width: 600px
    :align: center
 
-You will get a verification mail for your registration and same you have to execute in XChat window.
 
-.. figure:: img/xchat4.png
-   :width: 600px
-   :align: center
+You’ll obviously have figured out that the little white box at the bottom is where you type in your messages and commands. Also note the tab that says status above. You’ll want to click this tab before typing in sensitive IRC commands (as you will do shortly). You’ll see more tabs at the top as you join channels later and you’ll use the tabs to switch between them.
 
-Enjoy Xchating ...
+You in with your username? Good. Now let’s register it so that we can always have the same one.
+
+In this instance, my username is mariojason. You will use yours.
+
+/msg NickServ REGISTER password youremail@example.com
+
+
+
+
+
+
+
+
+
+
+
+|
+
+.. [#] A very good place to start! 
