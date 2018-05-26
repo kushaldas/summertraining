@@ -15,6 +15,7 @@ Contents:
    commguidelines
    communication
    xchat
+   irc on the web
    faq
    
 
