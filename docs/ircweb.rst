@@ -5,10 +5,26 @@ you can in fact use your web browser to connect to IRC!
 
 While it might not be as comfortable as a native client, irc via a browser is actually quite full featured.
 
+It depends on you knowing commands though, so `this page on the IRC beginner website <http://ircbeginner.com/ircinfo/ircc-commands.html>`_ will come in real handy.
+
+So let’s start at the very beginning [#]_.
+
+Here’s what we’d need for our summer sessions.
+
+1. We need a browser
+2. We need an username that stays the same, throughout sessions
+3. We need to login to the #dgplug channel on `freenode <https://webchat.freenode.net>`_ with that username
+
+Step 1. The Browser
+-------------------
+Congratulations!
+
+You’ve already have one and are successfully connected :)
+
+Step 2. A username for irc. 
 
 
-
-
+.. [#] A very good place to start!
 
 
 
