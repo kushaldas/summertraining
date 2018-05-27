@@ -1,7 +1,7 @@
 IRC clients
 ===========
 
-There are vairous IRC clients, for our sessions you can use either xchat or hexchat client
+There are various IRC clients, for our sessions you can use either xchat or hexchat client
 on your computer.
 
 
