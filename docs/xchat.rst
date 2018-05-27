@@ -19,11 +19,15 @@ How to install?
 ---------------
 
 For Fedora:
+
 ::
+
     # dnf install xchat
 
 For Ubuntu:
+
 ::
+
     # apt-get install xchat
 
 For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
