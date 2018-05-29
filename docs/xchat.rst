@@ -22,21 +22,23 @@ For Fedora:
 
 ::
 
-    # dnf install xchat
+    # dnf install hexchat
 
 For Ubuntu:
 
 ::
 
-    # apt-get install xchat
+    # apt-get install hexchat
 
-For windows please download hexchat from their `site <https://hexchat.github.io/>`_.
+For windows please download hexchat from their `site
+<https://hexchat.github.io/>`_.
 
 
 Configurations Steps
 --------------------
 
-Default xchat will open in network selection window where you have to select *FreeNode* and then connect.
+Default xchat will open in network selection window where you have to select
+*FreeNode* and then connect.
 
 .. figure:: img/xchat1.png
    :width: 600px
@@ -48,7 +50,7 @@ After connect you will see connection complete window where you have option to j
    :width: 600px
    :align: center
 
-After pressing OK, you are now in main window and joined *dgplug* channel. Now you have register your nickname to make sure someone else not using it.
+After pressing OK, you are now in main window and joined *#dgplug* channel. Now you have register your nickname to make sure someone else not using it.
 
 .. figure:: img/xchat3.png
    :width: 600px
