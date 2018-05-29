@@ -28,6 +28,8 @@ page <https://www.torproject.org/docs/verifying-signatures.html.en>`_.
 
 .. figure:: img/tor_browser_part1.gif
 
+.. note:: You can open the image in a new tab to view it in proper scale.
+
 The above graphics shows the steps, you can execute the desktop file to
 start the browser.
 
