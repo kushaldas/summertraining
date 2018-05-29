@@ -60,6 +60,13 @@ For now, we give you `this tweet
 .. figure:: img/matt_blaze_html.png
 
 
+How to write plain text email in gmail?
+----------------------------------------
+
+You can mark outgoing emails as plain text emails in the gmail web frontend.
+
+.. figure:: img/gmail_plain_text.gif
+
 Mailing list
 =============
 
