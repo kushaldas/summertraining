@@ -55,7 +55,12 @@ we have this community standing together. So, make sure to go through the histor
 Download Tor browser
 ---------------------
 
-The next important step is to `download Tor Browser <https://www.torproject.org/projects/torbrowser.html.en>`_.
-To start using it, follow `these steps <https://www.torproject.org/projects/torbrowser.html.en#linux>`_. You may have a
-lot of questions about `Why should we use Tor?`, through out the summer training we will
-have many discussions on this. But, to understand the basics, have a look at this `page <https://www.eff.org/pages/tor-and-https>`_.
+The next important step is to `download Tor Browser
+<https://www.torproject.org/projects/torbrowser.html.en>`_. To start using it,
+follow `these steps
+<https://www.torproject.org/projects/torbrowser.html.en#linux>`_. You may have
+a lot of questions about `Why should we use Tor?`, through out the summer
+training we will have many discussions on this. But, to understand the basics,
+have a look at this `page <https://www.eff.org/pages/tor-and-https>`_.
+
+Please read the :ref:`torchapter` chapter to learn in details.

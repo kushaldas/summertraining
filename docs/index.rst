@@ -17,6 +17,7 @@ Contents:
    xchat
    webirc
    faq
+   tor
    
 
 To learn about commands of a GNU/Linux system, start reading 
