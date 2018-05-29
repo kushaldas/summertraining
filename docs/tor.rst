@@ -9,12 +9,19 @@ Tor project
         privacy, confidential business activities and relationships, and state
         security.
 
-The `Tor project <https://www.torproject.org>`_ is the most suggested project
+The `Tor Project <https://www.torproject.org>`_ is the most suggested project
 when it comes to protect privacy and anonymity. We suggest dgplug participants
 to download the Tor Browser, and start using it for regular Internet access
 from the beginning.
 
-.. warning:: Always download Tor Browser from the Tor project website, do not
+
+Why should you use Tor?
+------------------------
+
+Watch this `youtube video <https://www.youtube.com/watch?v=JWII85UlzKw>`_.
+
+
+.. warning:: Always download Tor Browser from the Tor Project website, do not
              download or use it from any other random website.
 
 How to install and run Tor Browser?
@@ -36,5 +43,18 @@ start the browser.
 ::
 
     ./start-tor-browser.desktop
+
+
+.. figure:: img/tor_first_window.png
+
+You will see the above window when Tor Broswer starts, just click on the
+**Connect** button, and then it will connect to the Tor network. For the first
+time the connection will take some time, afterwards it will be much faster.
+
+How does Tor actually work?
+---------------------------
+
+Read this `overview page <https://www.torproject.org/about/overview.html.en>`_
+to learn how does Tor actually works.
 
 
