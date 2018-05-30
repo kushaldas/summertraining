@@ -15,6 +15,7 @@ Contents:
    commguidelines
    communication
    xchat
+   webirc
    faq
    
 

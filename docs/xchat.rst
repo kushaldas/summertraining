@@ -1,8 +1,10 @@
 IRC clients
 ===========
 
-There are vairous IRC clients, for our sessions you can use either xchat or hexchat client
+There are various IRC clients, for our sessions you can use either xchat or hexchat client
 on your computer.
+
+You can also use `IRC on the web <http://summertraining.readthedocs.io/en/latest/webirc.html>`_.
 
 
 XChat or hexchat

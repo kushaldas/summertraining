@@ -15,7 +15,9 @@ Clients
 How to use IRC?
 ----------------
 
-Read `how to register your nickname <https://fedoraproject.org/wiki/How_to_use_IRC>`_.
+Read `how to register your nickname
+<https://fedoraproject.org/wiki/How_to_use_IRC>`_. We also have two chapters on how
+to use different IRC clients to connect and chat.
 
 Register your nickname
 -----------------------
@@ -42,8 +44,24 @@ Though are few sort forms which are acceptable in IRC.
 
 For more `Abbreviations Commonly Used on IRC <http://www.ircbeginner.com/ircinfo/abbreviations.html>`_.
 
+
+Do not write HTML emails
+=========================
+
+Please avoid sending HTML emails, in private emails, or to any mailing list.
+dgplug mailing list will automatically delete any HTML email sent to the list.
+
+We are sure you want to why is it bad? We will discuss more about it during the
+training.
+
+For now, we give you `this tweet
+<https://twitter.com/mattblaze/status/996065202323050496>`_. 
+
+.. figure:: img/matt_blaze_html.png
+
+
 Mailing list
--------------
+=============
 
 Please join in our `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgplug.org>`_.
 Remember not to do top post but only reply inline.
@@ -96,8 +114,9 @@ Rules for the sessions
 How to ask a question?
 -----------------------
 
-First read `this document <http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember
-to search in DuckDuckGo and then only ask.
+First read `this document
+<http://www.catb.org/esr/faqs/smart-questions.html>`_. Remember to search in
+DuckDuckGo and then only ask.
 
 More logs to read
 ------------------
