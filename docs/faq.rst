@@ -9,7 +9,7 @@ The questions are not in any particular order.
 What are the topics covered?
 ----------------------------
 
-`This page <https://dgplug.org/summertraining17/>`_ contains details about the topics covered in the training.
+`This page <https://dgplug.org/summertraining18/>`_ contains details about the topics covered in the training.
 
 How do I subscribe to the mailing list?
 ---------------------------------------
@@ -23,7 +23,8 @@ What are the requisites for the training?
 -----------------------------------------
 
 - A fast Internet connection
-- Any Linux distribution. If you only have Windows, you can install it in a VM (say virtualbox).
+- Any modern Linux distribution. If you only have Windows, you can install it
+  in a VM (say using Virtualbox).
 
 How do I get the logs?
 ----------------------
