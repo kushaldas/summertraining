@@ -15,7 +15,7 @@ Contents:
    beforestart
    commguidelines
    communication
-   xchat
+   irc
    webirc
    tor
    
