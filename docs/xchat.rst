@@ -1,19 +1,18 @@
 IRC clients
 ===========
 
-There are various IRC clients, for our sessions you can use either xchat or hexchat client
-on your computer.
+There are various IRC clients, for our sessions you can use
+**hexchat** client on your computer.
 
 
-XChat or hexchat
-================
+hexchat
+--------
 
-XChat/hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
+hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
 document interface or tree interface, support for multiple servers and is highly
 configurable.
 
 - `hexchat <https://hexchat.github.io/>`_
-- `XChat <http://xchat.org/docs/start/>`_
 
 How to install?
 ---------------
@@ -37,7 +36,7 @@ For windows please download hexchat from their `site
 Configurations Steps
 --------------------
 
-Default xchat will open in network selection window where you have to select
+Default **hexchat** will open in network selection window where you have to select
 *FreeNode* and then connect.
 
 .. figure:: img/xchat1.png
@@ -62,4 +61,8 @@ You will get a verification mail for your registration and same you have to exec
    :width: 600px
    :align: center
 
-Enjoy Xchating ...
+Below is a GIF which shows how to join the *#dgplug* channel on Freenode.
+
+.. image:: img/hexchat.gif
+
+.. note:: You can open the image in a new tab to view it in proper scale.
