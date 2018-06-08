@@ -7,17 +7,14 @@ main communication medium for many FOSS projects.
 Clients
 --------
 
-- `XChat <http://xchat.org/docs/start/>`_
 - `HexChat <http://hexchat.readthedocs.org/en/latest/>`_
 - `webchat <http://webchat.freenode.net/>`_
-- `Waartaa <https://www.waartaa.com/>`_
+
 
 How to use IRC?
 ----------------
 
-Read `how to register your nickname
-<https://fedoraproject.org/wiki/How_to_use_IRC>`_. We also have two chapters on how
-to use different IRC clients to connect and chat.
+Please read the :ref:`ircchapter` chapter to learn in details.
 
 Register your nickname
 -----------------------
