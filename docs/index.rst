@@ -15,9 +15,10 @@ Contents:
    beforestart
    commguidelines
    communication
-   xchat
+   irc
    webirc
    tor
+   opsec
    
 
 To learn about commands of a GNU/Linux system, start reading 
