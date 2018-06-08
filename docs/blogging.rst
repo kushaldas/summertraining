@@ -7,10 +7,6 @@ Contents:
    :maxdepth: 2
 
    blogging-1-why
-   beforestart
-   commguidelines
-   communication
-   xchat
-   webirc
-   tor
-   blogging
+   blogging-2-how
+   blogging-3-tactical
+   blogging-4-miscellanea
