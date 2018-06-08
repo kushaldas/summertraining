@@ -90,3 +90,43 @@ The same goes to the all USB devices you use. We have much bigger chance to
 misplace or forget about small USB devices. `How to encrypt USB devices using
 LUKS <https://kushaldas.in/posts/encrypting-drives-with-luks.html>`_ has all
 the details you need to know to encrypt or decrypt any USB device.
+
+Do not download and install random software from internet
+----------------------------------------------------------
+
+Do not download software from any random site and install them on your
+computer. They may have malware or virus in them, which can attack not only
+your computer, but also all the computers in the network. The same goes about
+any software which says to execute some random shell script from internet.
+
+
+Use the following browser plugins for better privacy
+-----------------------------------------------------
+
+- `HTTPS Everywhere! <https://www.eff.org/https-everywhere/faq>`_
+- `Privacy Badger <https://www.eff.org/privacybadger>`_
+- `Disconnect.me <https://disconnect.me/>`_
+
+Install the above mentioned plugins in your favorite browser. They are available
+for both Firefox and Google Chrome browsers.
+
+
+Use Tor for almost everything
+------------------------------
+
+Start using Tor browser for almost everything you do over internet. Read the
+previous chapter on Tor Project to know more.
+
+
+Do not click on random links in emails or from anywhere else
+-------------------------------------------------------------
+
+Many people are attacked by simple phishing attacks where someone sends a
+random link (which looks like a normal known website URL). They many times
+also provides downloads and ask the victims to download and open those
+attachments in the victim's computer.
+
+To avoid from any such phishing attacks, make sure that don't click on any URL
+in emails or random websites. Also, always think about any email attachments,
+before downloading or opening those files. The same goes to any PDFs you
+receive over email.
