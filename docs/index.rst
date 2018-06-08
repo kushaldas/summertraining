@@ -16,7 +16,6 @@ Contents:
    commguidelines
    communication
    irc
-   webirc
    tor
    opsec
    
