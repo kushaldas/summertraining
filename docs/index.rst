@@ -11,12 +11,13 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   faq
    beforestart
    commguidelines
    communication
    xchat
    webirc
-   faq
+   tor
    
 
 To learn about commands of a GNU/Linux system, start reading 

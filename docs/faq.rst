@@ -9,7 +9,7 @@ The questions are not in any particular order.
 What are the topics covered?
 ----------------------------
 
-`This page <https://dgplug.org/summertraining17/>`_ contains details about the topics covered in the training.
+`This page <https://dgplug.org/summertraining18/>`_ contains details about the topics covered in the training.
 
 How do I subscribe to the mailing list?
 ---------------------------------------
@@ -23,7 +23,8 @@ What are the requisites for the training?
 -----------------------------------------
 
 - A fast Internet connection
-- Any Linux distribution. If you only have Windows, you can install it in a VM (say virtualbox).
+- Any modern Linux distribution. If you only have Windows, you can install it
+  in a VM (say using Virtualbox).
 
 How do I get the logs?
 ----------------------
@@ -76,3 +77,12 @@ If I have to leave class early, should I announce it mid class?
 ---------------------------------------------------------------
 
 Yes, just inform so and leave.
+
+
+Is there any calendar available for the sessions?
+--------------------------------------------------
+
+In 2018 we have introduced a new calendar for the summer training. You can
+view it `on web
+<https://calendar.dgplug.org/index.php/apps/calendar/p/yQ8Tq48XMPeCNa8a/dgplug>`_
+or subscribe to it using your favorite calendar application.
