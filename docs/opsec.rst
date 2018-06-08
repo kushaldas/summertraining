@@ -54,3 +54,39 @@ available, and we should install them as soon as possible. This is true not
 only for normal computers, but, also for mobile phones and any other modern
 smart home internet things.
 
+Take regular backups
+---------------------
+
+One should always backup their computer, and if possible more than one backup
+copy. For example, you should at least backup your ssh keys, gpg keys, and all
+other important configs in couple of **encrypted usb drives**.
+
+.. note:: Learn how to encrypt your USB drives below
+
+
+Enable 2 factor authentication
+-------------------------------
+
+Enable 2 factor authentication in all the websites or applications (if they
+allow it). This will provide a second layer of security incase someone finds
+your password.
+
+If possible also stay away from SMS based 2 factor authentication. Instead,
+use the mobile applications like **FreeOTP**, **Google Authenticator**,
+**Authy**. These generates time based tokens which can be used as 2FA.
+
+To know more which all sites provides 2 factor authentication, visit
+`https://twofactorauth.org <https://twofactorauth.org>`_.
+
+Encrypt all USB drives
+------------------------
+
+While installing Linux in your system, you can encrypt the whole drive. This
+will help in case your laptop is stolen or taken away by someone. This also means
+try to keep your laptop in shutdown state most of the time, so that to boot the system,
+one will have to provide the encryption password.
+
+The same goes to the all USB devices you use. We have much bigger chance to
+misplace or forget about small USB devices. `How to encrypt USB devices using
+LUKS <https://kushaldas.in/posts/encrypting-drives-with-luks.html>`_ has all
+the details you need to know to encrypt or decrypt any USB device.
