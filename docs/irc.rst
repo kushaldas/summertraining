@@ -1,5 +1,33 @@
+.. _ircchapter:
+
+What is IRC?
+-------------
+
+`Internet Relay Chat (IRC)
+<https://en.wikipedia.org/wiki/Internet_Relay_Chat>`_ is an application
+protocol to do text based communication. It was created in 1988 and still
+being used as one of the primary communication medium for many people around
+the world, including various Free and Open Source software projects.
+
+.. figure:: img/348px-Tolsun_2.jpg
+
+The above is the first ever IRC server (orginal image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_).
+
+We use IRC as our primary communication medium because it works with low bandwidth.
+You don't super fast internet connection to attend the summer training sessions. Also,
+later when you will try to contact other communities, you will find most of them
+are active on IRC.
+
+What is a channel?
+-------------------
+
+Every IRC server has various virtual groups or rooms where people can
+communicate with each other. These are known as channels. The channel names
+start with *#* sign. For example, **#dgplug** is the channel name in Freenode
+server for our training.
+
 IRC clients
-===========
+------------
 
 There are various IRC clients, for our sessions you can use
 **hexchat** client on your computer.
