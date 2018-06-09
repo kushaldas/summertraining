@@ -117,6 +117,12 @@ Use Tor for almost everything
 Start using Tor browser for almost everything you do over internet. Read the
 previous chapter on Tor Project to know more.
 
+If you start using Tor Browser for social media sites like Facebook or
+Twitter, or reading different news websites, it will be difficult for anyone
+to track your browsing history. Tor Project `published a blog
+<https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web>`_
+post explaining this in details.
+
 
 Do not click on random links in emails or from anywhere else
 -------------------------------------------------------------
@@ -130,3 +136,17 @@ To avoid from any such phishing attacks, make sure that don't click on any URL
 in emails or random websites. Also, always think about any email attachments,
 before downloading or opening those files. The same goes to any PDFs you
 receive over email.
+
+
+Do not install random certificate on the browser
+-------------------------------------------------
+
+Do not trust any random certificate from internet. Only trust the certificates
+come as bundled with the browser. For example, in `this tweet
+<https://twitter.com/NCIIPC/status/989890103400054784>`_ one government agency
+asked people to install a certificate from Root Certifying Authority of India.
+But, the same is `already blacklisted
+<https://security.googleblog.com/2014/07/maintaining-digital-certificate-security.html>`_
+for issuing fake certificates.
+
+.. figure:: img/nciipc_dont.png
