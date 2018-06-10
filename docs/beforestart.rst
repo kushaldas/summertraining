@@ -64,3 +64,11 @@ training we will have many discussions on this. But, to understand the basics,
 have a look at this `page <https://www.eff.org/pages/tor-and-https>`_.
 
 Please read the :ref:`torchapter` chapter to learn in details.
+
+
+Watch The Internet's Own Boy
+=============================
+
+Take 2 hours of time and `watch this documentary <https://www.youtube.com/watch?v=9vz06QO3UkQ>`_.
+
+Now spend some time and think about it.
