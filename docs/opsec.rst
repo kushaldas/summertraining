@@ -178,7 +178,7 @@ for issuing fake certificates.
 
 
 SURVEILLANCE SELF-DEFENSE
-==========================
+--------------------------
 
 Now read `SURVEILLANCE SELF-DEFENSE <https://ssd.eff.org/>`_, you will get a
 chance to know things in much more detailed level.
