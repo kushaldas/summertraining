@@ -3,7 +3,10 @@ Good practices
 
 Here are a few suggestions on good practices while using computers daily life.
 In this guide we mentioned a few major habits or tools., and then we also
-links to documents to learn more about those habits or tools.
+provide links to documents to learn more about those habits or tools.
+
+.. note:: You should read the previous chapter first, and then only start reading this
+          chapter.
 
 Use strong and unique passwords
 -------------------------------
@@ -54,6 +57,13 @@ available, and we should install them as soon as possible. This is true not
 only for normal computers, but, also for mobile phones and any other modern
 smart home internet things.
 
+If you don't update your computer regularly, or else an attacker can find out
+the vulnerabilities in older version of the software or in the older version
+of the operating system you are running and attack your computer. Remember
+your threat model, think about what all things can go wrong if someone gets
+access your computer because of older vulnerable software.
+
+
 Take regular backups
 ---------------------
 
@@ -91,6 +101,11 @@ misplace or forget about small USB devices. `How to encrypt USB devices using
 LUKS <https://kushaldas.in/posts/encrypting-drives-with-luks.html>`_ has all
 the details you need to know to encrypt or decrypt any USB device.
 
+Once again this is tied to your threat model, if you share or copy any kind of
+sensitive documents (or example personal photos, or bank documents, or vital
+other documents), having them in an encrypted device will help in case the
+drive gets lost, or stolen.
+
 Do not download and install random software from internet
 ----------------------------------------------------------
 
@@ -99,6 +114,9 @@ computer. They may have malware or virus in them, which can attack not only
 your computer, but also all the computers in the network. The same goes about
 any software which says to execute some random shell script from internet.
 
+On the other hand, one should always check different applications installed in
+a computer, and remove the applications which we are not using regularly. This
+will reduce the attack surface.
 
 Use the following browser plugins for better privacy
 -----------------------------------------------------
@@ -114,8 +132,11 @@ for both Firefox and Google Chrome browsers.
 Use Tor for almost everything
 ------------------------------
 
-Start using Tor browser for almost everything you do over internet. Read the
-previous chapter on Tor Project to know more.
+Start using Tor browser for daily life. Read the previous chapter on Tor
+Project to know more. You may want to split your browsing between different
+browsers. For example, you can use one of the browsers (Firefox or Google
+Chrome) for your email and github accounts, one for all banking purpose. And
+then use Tor for the rest.
 
 If you start using Tor Browser for social media sites like Facebook or
 Twitter, or reading different news websites, it will be difficult for anyone
@@ -123,6 +144,10 @@ to track your browsing history. Tor Project `published a blog
 <https://blog.torproject.org/dont-let-facebook-or-any-tracker-follow-you-web>`_
 post explaining this in details.
 
+Your local ISP will know that you are using Tor, but, they will not have any
+clue about what all sites you are visiting. Visit `the EFF site
+<https://www.eff.org/pages/tor-and-https>`_ to understand who all can see
+which part while you are using Tor.
 
 Do not click on random links in emails or from anywhere else
 -------------------------------------------------------------
