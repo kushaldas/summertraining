@@ -16,7 +16,7 @@ yourself. We suggest everyone to use `DuckDuckGo <https://duckduckgo.com>`_
 search engine. This particular search engine does not track you, and focused to
 protect your privacy.
 
-If you open the site for the first time, it you show you ways you can enable it
+If you open the site for the first time, it will show you ways you can enable it
 as the default search engine in your browser. That should be the first thing to
 do. Go ahead, and enable DuckDuckGo as the default search engine.
 
