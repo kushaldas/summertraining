@@ -14,7 +14,7 @@ the world, including various Free and Open Source software projects.
 The above is the first ever IRC server (original image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_).
 
 We use IRC as our primary communication medium because it works with low bandwidth.
-You don't super fast internet connection to attend the summer training sessions. Also,
+You don't need super fast internet connection to attend the summer training sessions. Also,
 later when you will try to contact other communities, you will find most of them
 are active on IRC.
 
