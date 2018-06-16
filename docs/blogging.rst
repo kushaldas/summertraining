@@ -200,3 +200,11 @@ General writing suggestions
     | *Alright, you asked so I should answer.*
     | *Here’s all I got:*
     | **Read more than you write, live more than you read.**
+
+4. Bonus Reference
+------------------
+Just as I was done with this little section, Seth Godin released an episode about blogging on his podcast.
+
+And obviously, he does a much better job than me, explaining the whys and wherefores of blogging.
+
+You can find `the episode and the entire transcript here.<https://janusworx.com/seth-akimbo-blogging.html>`__
