@@ -207,4 +207,6 @@ Just as I was done with this little section, Seth Godin released an episode abou
 
 And obviously, he does a much better job than me, explaining the whys and wherefores of blogging.
 
-You can find `the episode and the entire transcript here<https://janusworx.com/seth-akimbo-blogging.html>`__.
+You can find `the episode and the entire transcript <https://janusworx.com/seth-akimbo-blogging.html>`__ here.
+
+
