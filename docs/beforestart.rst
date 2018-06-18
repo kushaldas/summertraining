@@ -20,6 +20,9 @@ If you open the site for the first time, it will show you ways you can enable it
 as the default search engine in your browser. That should be the first thing to
 do. Go ahead, and enable DuckDuckGo as the default search engine.
 
+To know more why should you use DuckDuckGo, read `their privacy page
+<https://duckduckgo.com/privacy>`_.
+
 There is no magic mirror!
 --------------------------
 
