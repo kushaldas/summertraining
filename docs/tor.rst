@@ -1,6 +1,6 @@
 .. _torchapter:
 
-Tor project
+Tor Project
 ============
 
     What is Tor?
