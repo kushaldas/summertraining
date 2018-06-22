@@ -67,25 +67,25 @@ Configurations Steps
 Default **hexchat** will open in network selection window where you have to select
 *FreeNode* and then connect.
 
-.. figure:: img/xchat1.png
+.. figure:: img/hex_1.png
    :width: 600px
    :align: center
 
 After connect you will see connection complete window where you have option to join channel (provide *dgplug*)
 
-.. figure:: img/xchat2.png
+.. figure:: img/hex_2.png
    :width: 600px
    :align: center
 
 After pressing OK, you are now in main window and joined *#dgplug* channel. Now you have register your nickname to make sure someone else not using it.
 
-.. figure:: img/xchat3.png
+.. figure:: img/hex_3.png
    :width: 600px
    :align: center
 
 You will get a verification mail for your registration and same you have to execute in XChat window.
 
-.. figure:: img/xchat4.png
+.. figure:: img/hex_4.png
    :width: 600px
    :align: center
 
