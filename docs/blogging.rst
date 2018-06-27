@@ -179,9 +179,10 @@ General writing suggestions
 
 -  As you grow, niche down. (general suggestion for a professional blog). Go from a something you’re learning about to something you become an authority on.
 -  Yes, other people have written about what you have. But no one has *your* voice. So if you feel like writing about it, **write about it**.
--  Use grammar and punctuation well. 
-  
+-  Use grammar and punctuation well.
+
   - Use `Grammarly <https://www.grammarly.com>`__.
+      .. warning:: Note of caution. Only use the Grammarly website. Don’t  install the browser extension. (Those can let someone, snoop into everything you type or do in your browser.)  
   - Use a `Style Guide <https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf>`__.
   - Get to know them well. 
   - Know these are only conventions. Break them at will :)
@@ -200,6 +201,7 @@ General writing suggestions
     | *Alright, you asked so I should answer.*
     | *Here’s all I got:*
     | **Read more than you write, live more than you read.**
+
 
 4. Bonus Reference
 ------------------
