@@ -29,7 +29,7 @@ Be nice to others.
 Always type full English words, no sms speak in any FOSS communications. That
 means no more 'u' or 'r', instead type 'you' or 'are'.
 
-Though are few sort forms which are acceptable in IRC.
+Though are few short forms which are acceptable in IRC.
 
 +-------------+-----------------------+
 | Short Form  |    Full Form          |
