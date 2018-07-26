@@ -129,6 +129,12 @@ Install the above mentioned plugins in your favorite browser. They are available
 for both Firefox and Google Chrome browsers.
 
 
+Do not trust private browsing mode to save your privacy
+--------------------------------------------------------
+
+Read this `document <https://medium.com/@mshelton/what-does-private-browsing-mode-do-adfe5a70a8b1>`_.
+
+
 Use Tor for almost everything
 ------------------------------
 
@@ -149,6 +155,30 @@ clue about what all sites you are visiting. Visit `the EFF site
 <https://www.eff.org/pages/tor-and-https>`_ to understand who all can see
 which part while you are using Tor.
 
+One strategy can be using more than one browser, say using Google Chrome for
+your gmail or youtube accounts, and then use Firefox for banking and other
+important tasks. Then you can move all of your other browsing in the Tor
+Browser.
+
+About communication tools on phone
+-----------------------------------
+
+Do not use `Telegram` or even have it installed on your phone. You can use
+`Signal <https://signal.org>`_ for any kind end-to-end encrypted communication
+from your phone (it is available for your Linux desktop too). Martin again
+wrote another `amazing guide
+<https://medium.com/@mshelton/signal-for-beginners-c6b44f76a1f0>`_ for Signal.
+
+Also always rememeber that end-to-end encryption does not mean no one can ever
+read your messages, the other person can loose the phone or someone may steal
+your phone. Some times some friend may just want to check those amazing photos
+on your phone, and then click on the Signal app and read all the messages
+there.
+
+.. figure:: img/security.png
+
+(Original work: `https://www.xkcd.com/538/ <https://www.xkcd.com/538/>`_ )
+
 Do not click on random links in emails or from anywhere else
 -------------------------------------------------------------
 
@@ -161,6 +191,8 @@ To avoid from any such phishing attacks, make sure that don't click on any URL
 in emails or random websites. Also, always think about any email attachments,
 before downloading or opening those files. The same goes to any PDFs you
 receive over email.
+
+https://www.youtube.com/watch?v=iJcQNgVtH8Y
 
 
 Do not install random certificate on the browser
