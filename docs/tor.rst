@@ -58,3 +58,8 @@ Read this `overview page <https://www.torproject.org/about/overview.html.en>`_
 to learn how does Tor actually works.
 
 
+Getting more help
+------------------
+
+Please visit the new `supper stie <https://support.torproject.org>`_ for any other query. You can also
+any question in our #dgplug channel too.
