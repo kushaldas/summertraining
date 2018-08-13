@@ -118,6 +118,18 @@ On the other hand, one should always check different applications installed in
 a computer, and remove the applications which we are not using regularly. This
 will reduce the attack surface.
 
+
+Do not plug random USB devices into your computer
+--------------------------------------------------
+
+If you ever find any random USB device in the parking lot, or on footpath, or
+in college, do not plug that into your computer. This is one easiest way
+people spread malware and systems get compromised. The same goes for [any USB
+device handed over in a
+conference](https://www.bbc.com/news/technology-43128073) or by booths at the
+street side.
+
+
 Use the following browser plugins for better privacy
 -----------------------------------------------------
 
