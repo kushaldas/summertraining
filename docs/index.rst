@@ -20,7 +20,7 @@ Contents:
    threatmodel
    opsec
    blogging
-   
+   book
 
 To learn about commands of a GNU/Linux system, start reading 
 `Linux command line for you and me <https://lym.readthedocs.io/en/latest/>`_ book.
