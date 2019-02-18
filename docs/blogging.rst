@@ -58,23 +58,23 @@ catapulted him to glory.
 Blogs are measure of growth.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I think this is Kushal’s second post (a college kid) in 2004.
+I think this is Kushal’s `second post <https://kushaldas.in/posts/hai-ki-hal.html>`__, (he was a college kid) on his blog in 2004.
 
   *Today junies came to the hostel. Now it sems that we r being ragged by our management. Carrersangi’s work will be started after 16th of this month.*
 
 
-Today, nearly eighteen years later Kushal speaks of moving on, and
+Today (2018), nearly eighteen years later Kushal speaks of moving on, and
 `touching new heights with his career <https://kushaldas.in/posts/the-journey-continues-at-freedom-of-the-press-foundation.html>`__ and `defending online rights in
 India <https://kushaldas.in/posts/latest-attempt-to-censor-internet-and-curb-press-freedom-in-india.html>`__.
 
 Reading his blog through the years, shows you a clear through line as he made his way in the world, what he learnt, where he went, what he did and how he got to where he is.
 
-Reading `Dave’s <http://davewiner.com>`__ blog shows how he rolled his way from xml to `rss <http://scripting.com/davenet/2000/09/02/whatToDoAboutRss.html>`__ to `blogs to podcasting to oulining tools <http://scripting.com/davenet/about.html>`__ over the years. A `neat
+Reading `Dave’s <http://davewiner.com>`__ blog shows how he rolled his way from xml to `rss <http://scripting.com/davenet/2000/09/02/whatToDoAboutRss.html>`__ to `blogs to podcasting to outlining tools <http://scripting.com/davenet/about.html>`__ over the years. There’s a `neat
 summary <http://inessential.com/2014/05/24/what_happened_at_userland>`__ at Brent’s page.
 
 This could be you too …
 
-And while all those are good and valid external reasons, my favorite reasons to have a blog, to write regularly are the *internal ones*.
+And while all those are good and valid external reasons, my favorite reasons to have a blog, to write regularly, are the *internal ones*.
 
 Writing sharpens your mind.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -89,8 +89,7 @@ Writing sharpens your mind.
 -  You learn how to communicate those thoughts in a manner that is assertive, yet open to feedback
 -  Your learn to get to the heart of the idea.
 
-And these are the reasons, the real reasons, you ought to learn to
-write.
+And these are the reasons, the real reasons, you ought to learn to write.
 
 `Seth Godin <https://seths.blog/2007/02/if_no_one_reads/>`__ concises it better than I ever could.
 
@@ -133,9 +132,9 @@ In order to have a good blog, in order to write well …
 
 1. You must want to write.
 2. You must make the time to write.
-3. **You must Write.** *A lot.*
+3. **You must write. A lot.**
 4. Write on a schedule.
-5. **Consistency is key.** In fact, in the beginning consistency matters
+5. **Consistency is key.** In fact, in the beginning, consistency matters
    more than quality. Have a rhythm. Once a day, twice a week, every
    other day. And then show up. Stick to the rhythm.
 
@@ -158,26 +157,26 @@ Structuring and writing a post.
    e. Summarise and conclude
 
 2. Get to being creative. 
-
+    
   a. Write like you’ve solved the biggest problem in the world.
   b. Create obstacles and then solve them.
 
 3. Use titles and subtitles.
-
+    
    a. Make the post scannable (a reader should get the gist, just reading the sections and subsections)
    b. Try to flow from one section to the next
    c. There’s reason daily soaps cut in the middle of a scene
    d. Emphasize items of importance
 
 4. Use paragraphs
-
+    
    a. Do short lines
    b. Make them punchy!
 
 General writing suggestions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  As you grow, niche down. (general suggestion for a professional blog). Go from a something you’re learning about to something you become an authority on.
+-  As you grow, niche down. (general suggestion for a professional blog). Go from a something you’re learning about, to something you become an authority on.
 -  Yes, other people have written about what you have. But no one has *your* voice. So if you feel like writing about it, **write about it**.
 -  Use grammar and punctuation well.
 
@@ -200,7 +199,7 @@ General writing suggestions
     | *Do aspiring writers need any more advice?*
     | *Alright, you asked so I should answer.*
     | *Here’s all I got:*
-    | *Read more than you write, live more than you read.*
+    | **Read more than you write, live more than you read.**
 
 
 4. Bonus References
