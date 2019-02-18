@@ -143,7 +143,6 @@ In order to have a good blog, in order to write well …
 Structuring and writing a post.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 1. Make a template to write to. Use it over and over. Here’s a simple one. Search for more. Make your own. It’s just an aid, so that you don’t have to scratch your head wondering *how* to write, when all you want to want do is write …
-   
    a. Title
    b. Short introduction
    c. Write what you wanted to write
@@ -157,19 +156,16 @@ Structuring and writing a post.
    e. Summarise and conclude
 
 2. Get to being creative. 
-    
-  a. Write like you’ve solved the biggest problem in the world.
-  b. Create obstacles and then solve them.
+   a. Write like you’ve solved the biggest problem in the world
+   b. Create obstacles and then solve them.
 
 3. Use titles and subtitles.
-    
    a. Make the post scannable (a reader should get the gist, just reading the sections and subsections)
    b. Try to flow from one section to the next
    c. There’s reason daily soaps cut in the middle of a scene
    d. Emphasize items of importance
 
 4. Use paragraphs
-    
    a. Do short lines
    b. Make them punchy!
 
