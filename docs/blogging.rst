@@ -203,8 +203,8 @@ General writing suggestions
     | *Read more than you write, live more than you read.*
 
 
-4. Bonus Reference
-------------------
+4. Bonus References
+-------------------
 Just as I was done with this little section, Seth Godin released an episode about blogging on his podcast.
 
 And obviously, he does a much better job than me, explaining the whys and wherefores of blogging.
