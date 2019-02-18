@@ -200,7 +200,7 @@ General writing suggestions
     | *Do aspiring writers need any more advice?*
     | *Alright, you asked so I should answer.*
     | *Here’s all I got:*
-    | `**Read more than you write**<https://austinkleon.com/2019/01/22/if-you-want-to-be-a-writer-you-have-to-be-a-reader-first/>`__**, live more than you read.**
+    | *Read more than you write, live more than you read.*
 
 
 4. Bonus Reference
