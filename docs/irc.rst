@@ -282,3 +282,12 @@ There! You’re in! Welcome! Enjoy your time in the channel :)
 .. figure:: img/webirc/webirc-11.png
    :width: 800px
    :align: center
+
+Nick Ghosting
+-------------
+
+If for some reason, your nick lingers on after you are disconnected either due to a bad connection, or due to a `netsplit <https://en.wikipedia.org/wiki/Netsplit>`_, you will be unable to use your nick again since it already is on the server.
+To remove the nick from the server, one needs to **ghost** it.
+To do this, make sure you are authenticated to NickServ and execute the following command::
+
+   /msg nickserv ghost your_nick_name
