@@ -294,4 +294,4 @@ If for some reason, your nick lingers on after you are disconnected either due t
 To remove the nick from the server, one needs to **ghost** it.
 To do this, make sure you are authenticated to NickServ and execute the following command::
 
-   /msg nickserv ghost your_nick_name
+   /msg nickserv ghost your_nick_name your_password
