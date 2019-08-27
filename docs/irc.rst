@@ -95,6 +95,14 @@ Below is a GIF which shows how to join the *#dgplug* channel on Freenode.
 
 .. note:: You can open the image in a new tab to view it in proper scale.
 
+Authentication to NickServ as done in the screenshot can be tedious to do manually each time.
+In HexChat, one can setup SASL authentication in the server options.
+Open the network selection window with `Ctrl+S` and select the network to edit.
+In the edit window, shown below, change the login method to SASL and fill in your password.
+
+.. image:: img/hexchat_sasl.png
+   :align: center
+
 IRC on the Web
 ---------------
 
