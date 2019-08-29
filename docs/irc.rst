@@ -91,7 +91,7 @@ You will get a verification mail for your registration and same you have to exec
 
 After verification one can authenticate to NickServ by issuing the following command::
 
-   /msg nickserv your_nick_name your_password
+   /msg nickserv identify your_nick_name your_password
 
 Authentication to NickServ in this fashion  can be tedious to do manually each time.
 In HexChat, one can setup SASL authentication in the server options.
