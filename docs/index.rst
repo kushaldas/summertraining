@@ -17,6 +17,7 @@ Contents:
    communication
    irc
    tor
+   privacy
    threatmodel
    opsec
    blogging
