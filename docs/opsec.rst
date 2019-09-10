@@ -8,6 +8,11 @@ provide links to documents to learn more about those habits or tools.
 .. note:: You should read the previous chapter first, and then only start reading this
           chapter.
 
+.. figure:: img/we_have_dave.jpeg
+
+.. warning:: But, always remember, no technology can help user errors. So, think before you click any link or execute any random command.
+
+
 Use strong and unique passwords
 -------------------------------
 
