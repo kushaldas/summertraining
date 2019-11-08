@@ -90,6 +90,8 @@ If possible also stay away from SMS based 2 factor authentication. Instead,
 use the mobile applications like **FreeOTP**, **Google Authenticator**,
 **Authy**. These generates time based tokens which can be used as 2FA.
 
+To learn more, read [this guide](https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7).
+
 To know more which all sites provides 2 factor authentication, visit
 `https://twofactorauth.org <https://twofactorauth.org>`_.
 
