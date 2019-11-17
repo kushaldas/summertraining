@@ -33,7 +33,7 @@ download the *tar* file, and also the signature file. Please verify the
 download before you start using it, the steps for the same are given in `this
 page <https://www.torproject.org/docs/verifying-signatures.html.en>`_.
 
-.. figure:: img/tor_browser_part1.gif
+.. figure:: img/tor_9.0.1.gif
 
 .. note:: You can open the image in a new tab to view it in proper scale.
 
