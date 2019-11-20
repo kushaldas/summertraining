@@ -51,6 +51,15 @@ You will see the above window when Tor Broswer starts, just click on the
 **Connect** button, and then it will connect to the Tor network. For the first
 time the connection will take some time, afterwards it will be much faster.
 
+
+For Windows users
+-----------------
+
+Download the Tor installer from www.torproject.org and follow the steps as shown
+below.
+
+.. figure:: img/tor_install_on_windows.gif
+
 How does Tor actually work?
 ---------------------------
 
