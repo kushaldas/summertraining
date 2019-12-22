@@ -103,10 +103,17 @@ will help in case your laptop is stolen or taken away by someone. This also mean
 try to keep your laptop in shutdown state most of the time, so that to boot the system,
 one will have to provide the encryption password.
 
+- For mac follow this `guide <https://support.apple.com/en-us/HT204837>`_.
+
+.. note:: Use `Veracrypt <https://www.veracrypt.fr/en/Home.html>`_ to encrypt all removable drives.
+          Follow `this guide <`https://freedom.press/training/encryption-toolkit-media-makers-veracrypt-guide/>`_ to learn the usage.
+
+
 The same goes to the all USB devices you use. We have much bigger chance to
 misplace or forget about small USB devices. `How to encrypt USB devices using
 LUKS <https://kushaldas.in/posts/encrypting-drives-with-luks.html>`_ has all
 the details you need to know to encrypt or decrypt any USB device.
+
 
 Once again this is tied to your threat model, if you share or copy any kind of
 sensitive documents (or example personal photos, or bank documents, or vital
