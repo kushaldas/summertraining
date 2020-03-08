@@ -13,6 +13,22 @@ provide links to documents to learn more about those habits or tools.
 .. warning:: But, always remember, no technology can help user errors. So, think before you click any link or execute any random command.
 
 
+Keep your machine updated
+--------------------------
+
+Always keep all the software updated. There are always new security updates
+available, and we should install them as soon as possible. This is true not
+only for normal computers, but, also for mobile phones and any other modern
+smart home internet things.
+
+If you don't update your computer regularly, or else an attacker can find out
+the vulnerabilities in older version of the software or in the older version
+of the operating system you are running and attack your computer. Remember
+your threat model, think about what all things can go wrong if someone gets
+access your computer because of older vulnerable software.
+
+
+
 Use strong and unique passwords
 -------------------------------
 
@@ -53,20 +69,6 @@ criminal activities. Here is `story
 <http://thehill.com/policy/national-security/295933-fbi-director-cover-up-your-webcam>`_
 which talks about how the FBI director also puts up a tape on his laptop's
 webcam.
-
-Keep your machine updated
---------------------------
-
-Always keep all the software updated. There are always new security updates
-available, and we should install them as soon as possible. This is true not
-only for normal computers, but, also for mobile phones and any other modern
-smart home internet things.
-
-If you don't update your computer regularly, or else an attacker can find out
-the vulnerabilities in older version of the software or in the older version
-of the operating system you are running and attack your computer. Remember
-your threat model, think about what all things can go wrong if someone gets
-access your computer because of older vulnerable software.
 
 
 Take regular backups
