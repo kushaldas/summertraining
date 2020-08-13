@@ -8,7 +8,7 @@ things one should know.
 
 But, even before you read the rest the document to learn more, first please
 watch `this talk <https://www.youtube.com/watch?v=rwFN-x57Nwo>`_ from the ever amazing
-`Ian Coldwater <https://twitter.com/IanColdwater>_`. Take your time, listen to them.
+`Ian Coldwater <https://twitter.com/IanColdwater>`_. Take your time, listen to them.
 
 How to ask for help?
 ---------------------
