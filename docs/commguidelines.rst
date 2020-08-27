@@ -33,7 +33,7 @@ Different mediums of online communication
 
 * Direct emails
 * Mailing lists
-* Chatting applications (IRC, Gitter, Google Chat, Slack)
+* Instant messaging applications (IRC, Matrix, Gitter etc.)
 
 `This session <http://dgplug.org/irclogs/mbuf_1stclass.log>`_ from Shakthi
 Kannan has more details about how to communicate. Please go through it next.
