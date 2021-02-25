@@ -210,4 +210,4 @@ And obviously, he does a much better job than me, explaining the whys and wheref
 
 You can find `the episode and the entire transcript <https://janusworx.com/blog/seth-akimbo-blogging/>`__ here.
 
-I also write and share inspiring and tactical posts on writing on _`my blog,<https://janusworx.com/categories/writing/>`__.
+I also write and share inspiring and tactical posts on writing on `my blog,<https://janusworx.com/categories/writing/>`_.
