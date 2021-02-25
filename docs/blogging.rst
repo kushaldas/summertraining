@@ -208,8 +208,6 @@ Just as I was done with this little section, Seth Godin released an episode abou
 
 And obviously, he does a much better job than me, explaining the whys and wherefores of blogging.
 
-You can find `the episode and the entire transcript <https://janusworx.com/seth-akimbo-blogging.html>`__ here.
+You can find `the episode and the entire transcript <https://janusworx.com/blog/seth-akimbo-blogging/>`__ here.
 
-I also write and share inspiring and tactical posts on writing at both `my work <https://janusworx.com/categories/writing/>`__ and `personal blogs <https://mjbraganza.com/categories/writing/>`__.
-
-
+I also write and share inspiring and tactical posts on writing on _`my blog,<https://janusworx.com/categories/writing/>`__.
