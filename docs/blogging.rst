@@ -116,12 +116,12 @@ This is the simplest section of all.
 You could, of course, if so inclined, do your research and figure out what you want amongst the 3 major platforms and 7–10 minor ones. Paid, free, hosted, self hosted, Github pages … hours of fun :)
 
 Or if all of this sounds intimidating and scary, simply go sign up for a free account and start up a `blog at
-Wordpress <https://wordpress.com/start/about>`__.
+Write.as <https://write.as/start>`__.
 
 | The important thing right now, is to actually get something up and running with minimal fuss, so that you can **start writing regularly**.
 | You can always move to something you want later.
 
-`Click here to get started <https://wordpress.com/start/about>`__.
+`Click here to get started <https://write.as/start>`__.
 
 -----
 
@@ -208,8 +208,6 @@ Just as I was done with this little section, Seth Godin released an episode abou
 
 And obviously, he does a much better job than me, explaining the whys and wherefores of blogging.
 
-You can find `the episode and the entire transcript <https://janusworx.com/seth-akimbo-blogging.html>`__ here.
+You can find `the episode and the entire transcript <https://janusworx.com/blog/seth-akimbo-blogging/>`__ here.
 
-I also write and share inspiring and tactical posts on writing at both `my work <https://janusworx.com/categories/writing.html>`__ and `personal blogs <https://mjbraganza.com/categories/writing/>`__.
-
-
+I also write and share inspiring and tactical posts on writing on `my blog <https://janusworx.com/categories/writing/>`_.
