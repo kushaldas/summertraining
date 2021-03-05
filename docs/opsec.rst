@@ -48,6 +48,10 @@ place. Learn from this guide about `password managers
 <https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f>`_.
 `KeePassXC <https://medium.com/@mshelton/keypass-for-beginners-dc8adfcdad54>`_ is a good option on desktop.
 
+`Bitwarden <https://mshelton.medium.com/bitwarden-for-beginners-74cf93679457>_` is a good starting option
+for newbies. Many of us also use `1Password <https://mshelton.medium.com/introduction-to-password-managers-5e15baa8b26e>_`
+as password manager.
+
 
 Do not keep the computer unlocked
 ----------------------------------
