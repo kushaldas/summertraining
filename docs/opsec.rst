@@ -44,7 +44,7 @@ Use password managers
 -----------------------
 
 Password managers will help you to store all of those long passphrases in one
-place. Learn from this guide about `password managers <https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f>`_.
+place. Learn from the guide about `password managers <https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f>`_.
 `KeePassXC <https://medium.com/@mshelton/keypass-for-beginners-dc8adfcdad54>`_ is a good option on desktop.
 
 `Bitwarden <https://mshelton.medium.com/bitwarden-for-beginners-74cf93679457>`_ is a good starting option
@@ -60,6 +60,10 @@ in anywhere else. This is again an habit, and it takes time to make this
 habit. Having the computer always password protected will make sure that any
 person can not directly access your computer even if you are not front of the
 computer for few minutes.
+
+The following is `an incident <https://www.dailydot.com/debug/gibberish-tweet-u-s-strategic-command-child/>`_ where a child typed things in to the Twitter account of the US Strategic Command.
+
+.. figure:: img/us_strategic_command_twitter.jpg
 
 Cover up your webcam
 ---------------------
@@ -83,8 +87,8 @@ other important configs in couple of **encrypted usb drives**.
 .. note:: Learn how to encrypt your USB drives below
 
 
-Enable 2 factor authentication
--------------------------------
+Enable 2 factor authentication (2FA)
+-------------------------------------
 
 Enable 2 factor authentication in all the websites or applications (if they
 allow it). This will provide a second layer of security incase someone finds
@@ -94,7 +98,7 @@ If possible also stay away from SMS based 2 factor authentication. Instead,
 use the mobile applications like **FreeOTP**, **Google Authenticator**,
 **Authy**. These generates time based tokens which can be used as 2FA.
 
-To learn more, read `this guide <https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7>`_.
+To learn more, read `the guide <https://medium.com/@mshelton/two-factor-authentication-for-beginners-b29b0eec07d7>`_ on 2FA.
 
 To know more which all sites provides 2 factor authentication, visit
 `https://twofactorauth.org <https://twofactorauth.org>`_.
