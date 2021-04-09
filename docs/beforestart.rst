@@ -79,3 +79,8 @@ Watch The Internet's Own Boy
 Take 2 hours of time and `watch this documentary <https://www.youtube.com/watch?v=9vz06QO3UkQ>`_.
 
 Now spend some time and think about it.
+
+Watch Coded Bias
+=================
+
+Next, you should watch `Coded Bias <https://www.codedbias.com/>` documentary. It is available on Netflix.
