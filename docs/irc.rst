@@ -35,9 +35,7 @@ There are various IRC clients, for our sessions you can use
 hexchat
 --------
 
-hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed
-document interface or tree interface, support for multiple servers and is highly
-configurable.
+hexchat is a popular Internet Relay Chat (IRC) client. It has a choice of a tabbed document interface or tree interface, support for multiple servers and is highly configurable.
 
 - `hexchat <https://hexchat.github.io/>`_
 
@@ -63,49 +61,90 @@ For windows please download hexchat from their `site
 Configurations Steps
 --------------------
 
-Default **hexchat** will open in network selection window where you have to select *FreeNode* and then connect.
+Launching **Hexchat** for the first time, will open network selection window where you have to need to do the following
 
-.. figure:: img/hex_1.png
+1. Put in a nickname that is fairly unique, in the Nick name box.
+2. And an alternative in the second choice box.
+3. Fill in the username field to (For convenience’s sake, keep it the same as your nickname)
+4. Click the New Network name in the list below and rename it to Libera or Libera Chat.
+
+Your window should look something like this.
+
+.. figure:: img/hc/lc-hc-01.png
+   :width: 500px
+   :align: center
+
+Then click the edit button on the right (in the pic above), to edit and configure the server setting to ``irc.libera.chat/+6697`` like you see in the pic below …
+
+.. figure:: img/hc/lc-hc-02.png
+   :width: 500px
+   :align: center
+
+
+Click close and then you’ll be back at the network selection window.
+With Libera highlighited, hit the connect button and you should be connected to the Libera Chat IRC network. Hexchat will ask you to connect to a channel. Select the I’ll join a channel later option and hit ok.
+
+.. figure:: img/hc/lc-hc-03.png
+   :width: 500px
+   :align: center
+
+
+Now that we’ve connected to IRC, we need to register our nickname to make sure someone else not using it. We need to type this command ``/msg NickServ REGISTER YourPassword youremail@example.com`` in the tiny box at the bottom where we type in our messages and commands. Here YourPassword is some long password of your choosing (*not* your email account password) and youremail@example.com needs to be replaced with your email address
+
+We’ve done this in the image below. (The email and password we’ve typed is greyed out. You’ll see it more clearly if you click the image to see a larger view.)
+
+.. figure:: img/hc/lc-hc-04.png
+   :width: 800px
+   :align: center
+
+If all goes well the Libera Chat server, should respond with something like this
+
+.. figure:: img/hc/lc-hc-05.png
+   :width: 800px
+   :align: center
+
+
+Now if we hop over to our email, we should get a email like the one below.
+
+.. figure:: img/hc/lc-hc-06.png
    :width: 600px
    :align: center
 
-After connect you will see connection complete window where you have option to join channel (provide *dgplug*)
+We copy the command from the email (the whole ``/msg NickServ VERIFY`` … line) and paste it into our Hexchat window and hit enter. Libera Chat should then confirm all is well like so …
 
-.. figure:: img/hex_2.png
-   :width: 600px
+.. figure:: img/hc/lc-hc-07.png
+   :width: 800px
    :align: center
 
-After pressing OK, you are now in main window and joined *#dgplug* channel. Now you have register your nickname to make sure someone else not using it.
-
-.. figure:: img/hex_3.png
-   :width: 600px
-   :align: center
-
-You will get a verification mail for your registration and same you have to execute in XChat window.
-
-.. figure:: img/hex_4.png
-   :width: 600px
-   :align: center
-
-After verification one can authenticate to NickServ by issuing the following command
+Now that our nickname is registered, we can always use thi same nick by authenticating with NickServ by issuing the following command
 
 ::
 
    /msg nickserv identify your_password
 
-Authentication to NickServ in this fashion  can be tedious to do manually each time.
-In HexChat, one can setup SASL authentication in the server options.
-Open the network selection window with `Ctrl+S` and select the network to edit.
+Authentication to NickServ in this fashion manually can be quickly get tedious though.
+With HexChat, we can speed this up / automate this away by setting up SASL authentication.
+Open the network selection window with `Ctrl+S` and select the network to edit. (Libera in our case)
 In the edit window, shown below, change the login method to SASL and fill in your password.
 
-.. image:: img/hexchat_sasl.png
+.. figure:: img/hc/lc-hc-10.png
+   :width: 500px
    :align: center
 
-Below is a GIF which shows how to join the *#dgplug* channel on Freenode.
 
-.. image:: img/hexchat.gif
+Quit Hexchat and launch it again and we’ll get the familiar join a channel prompt.
+This time we can choose the “Join this channel:” option and type in ``#dgplug`` for the channel and click ok. (We can also untick the “Always show this dialogue after connection …” prompt if we so choose.)
 
-.. note:: You can open the image in a new tab to view it in proper scale.
+.. figure:: img/hc/lc-hc-11.png
+   :width: 500px
+   :align: center
+
+If all goes well, we should be in the **#dgplug** channel, all ready to chat and learn :)
+
+.. figure:: img/hc/lc-hc-12.png
+   :width: 800px
+   :align: center
+
 
 IRC on the Web
 ---------------
