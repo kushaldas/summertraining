@@ -23,8 +23,7 @@ What is a channel?
 
 Every IRC server has various virtual groups or rooms where people can
 communicate with each other. These are known as channels. The channel names
-start with *#* sign. For example, **#dgplug** is the channel name in Freenode
-server for our training.
+start with *#* sign. For example, **#dgplug** is the channel name on the Libera Chat server for our training.
 
 IRC clients
 ------------
@@ -64,8 +63,7 @@ For windows please download hexchat from their `site
 Configurations Steps
 --------------------
 
-Default **hexchat** will open in network selection window where you have to select
-*FreeNode* and then connect.
+Default **hexchat** will open in network selection window where you have to select *FreeNode* and then connect.
 
 .. figure:: img/hex_1.png
    :width: 600px
