@@ -50,10 +50,6 @@ Blogs make it easy for people to reach out to you.
 | For a long, long while (nearly a decade) Seth was the first result when you searched Google for the word blog.
 | With a reach like this, do you think any of our heroes have trouble finding new projects or things to do?
 
-Want to hear a rags to riches, Horatio Alger story? Here’s how `John
-Sonmez’s
-blog <https://simpleprogrammer.com/blogging-software-developers/>`__
-catapulted him to glory.
 
 Blogs are measure of growth.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
