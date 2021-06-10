@@ -74,7 +74,7 @@ Your window should look something like this.
    :width: 500px
    :align: center
 
-Then click the edit button on the right (in the pic above), to edit and configure the server setting to ``irc.libera.chat/+6697`` like you see in the pic below …
+Then click the edit button on the right (in the pic above), to edit and configure the server setting to ``irc.libera.chat/+6697`` like you see in the pic below … (also make sure that the ssl option is ticked)
 
 .. figure:: img/hc/lc-hc-02.png
    :width: 500px
