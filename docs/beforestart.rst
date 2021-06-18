@@ -83,4 +83,4 @@ Now spend some time and think about it.
 Watch Coded Bias
 =================
 
-Next, you should watch `Coded Bias <https://www.codedbias.com/>` documentary. It is available on Netflix.
+Next, you should watch `Coded Bias <https://www.codedbias.com/>`_ documentary. It is available on Netflix.
