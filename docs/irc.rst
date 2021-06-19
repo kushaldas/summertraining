@@ -11,7 +11,7 @@ the world, including various Free and Open Source software projects.
 
 .. figure:: img/348px-Tolsun_2.jpg
 
-The above is the first ever IRC server (original image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_).
+The above is the first ever IRC server (original image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_ taken by Urpo Lankinen). 
 
 We use IRC as our primary communication medium because it works with low bandwidth.
 You don't need super fast internet connection to attend the summer training sessions. Also,
