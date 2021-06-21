@@ -11,7 +11,7 @@ the world, including various Free and Open Source software projects.
 
 .. figure:: img/348px-Tolsun_2.jpg
 
-The above is the first ever IRC server (original image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_).
+The above is the first ever IRC server (original image is from `Wikimedia Commons <https://en.wikipedia.org/wiki/File:Tolsun_2.jpg>`_ taken by Urpo Lankinen). 
 
 We use IRC as our primary communication medium because it works with low bandwidth.
 You don't need super fast internet connection to attend the summer training sessions. Also,
@@ -61,11 +61,11 @@ For windows please download hexchat from their `site
 Configurations Steps
 --------------------
 
-Launching **Hexchat** for the first time, will open network selection window where you have to need to do the following
+Launching **Hexchat** for the first time, will open the network selection window where you have to need to do the following
 
 1. Put in a nickname that is fairly unique, in the Nick name box.
 2. And an alternative in the second choice box.
-3. Fill in the username field to (For convenience’s sake, keep it the same as your nickname)
+3. Fill in the username field too (For convenience’s sake, keep it the same as your nickname)
 4. Click the New Network name in the list below and rename it to Libera or Libera Chat.
 
 Your window should look something like this.
@@ -82,16 +82,18 @@ Then click the edit button on the right (in the pic above), to edit and configur
 
 
 Click close and then you’ll be back at the network selection window.
-With Libera highlighited, hit the connect button and you should be connected to the Libera Chat IRC network. Hexchat will ask you to connect to a channel. Select the I’ll join a channel later option and hit ok.
+With Libera highlighted, hit the connect button and you should be connected to the Libera Chat IRC network. Hexchat will ask you to connect to a channel. Select the I’ll join a channel later option and hit ok.
 
 .. figure:: img/hc/lc-hc-03.png
    :width: 500px
    :align: center
 
 
-Now that we’ve connected to IRC, we need to register our nickname to make sure someone else not using it. We need to type this command ``/msg NickServ REGISTER YourPassword youremail@example.com`` in the tiny box at the bottom where we type in our messages and commands. Here YourPassword is some long password of your choosing (*not* your email account password) and youremail@example.com needs to be replaced with your email address
+Now that we’ve connected to IRC, we need to register our nickname to make sure someone else not using it. We need to type this command 
+``/msg NickServ REGISTER YourPassword youremail@example.com`` 
+in the tiny box at the bottom where we type in our messages and commands. Here YourPassword is some long password of your choosing (*not* your email account password) and youremail@example.com needs to be replaced with your email address
 
-We’ve done this in the image below. (The email and password we’ve typed is greyed out. You’ll see it more clearly if you click the image to see a larger view.)
+We’ve done this in the image below. (The email and password we’ve typed is greyed out. You’ll see it more clearly if you click the image to see a larger view. Folks reading on a cell phone, you’ll have to really zoom in.)
 
 .. figure:: img/hc/lc-hc-04.png
    :width: 800px
@@ -116,24 +118,22 @@ We copy the command from the email (the whole ``/msg NickServ VERIFY`` … line)
    :width: 800px
    :align: center
 
-Now that our nickname is registered, we can always use thi same nick by authenticating with NickServ by issuing the following command
+Now that our nickname is registered, we can always use thi same nick by authenticating with NickServ by issuing the following command::
 
-::
+/msg nickserv identify your_password
 
-   /msg nickserv identify your_password
-
-Authentication to NickServ in this fashion manually can be quickly get tedious though.
-With HexChat, we can speed this up / automate this away by setting up SASL authentication.
-Open the network selection window with `Ctrl+S` and select the network to edit. (Libera in our case)
-In the edit window, shown below, change the login method to SASL and fill in your password.
+| Manual authentication to NickServ in this fashion, can be quickly get tedious though.
+| With HexChat, we can speed this up / automate this away, by setting up SASL authentication.
+| Open the network selection window with `Ctrl+S` and select the network to edit. (Libera in our case)
+| In the edit window, shown below, change the login method to SASL and fill in your password.
 
 .. figure:: img/hc/lc-hc-10.png
    :width: 500px
    :align: center
 
 
-Quit Hexchat and launch it again and we’ll get the familiar join a channel prompt.
-This time we can choose the “Join this channel:” option and type in ``#dgplug`` for the channel and click ok. (We can also untick the “Always show this dialogue after connection …” prompt if we so choose.)
+| Quit Hexchat and launch it again and we’ll get the familiar join a channel prompt.
+| This time we can choose the “Join this channel:” option and type in ``#dgplug`` for the channel and click ok. (We can also untick the “Always show this dialogue after connection …” prompt if we so choose.)
 
 .. figure:: img/hc/lc-hc-11.png
    :width: 500px
