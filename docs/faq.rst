@@ -98,7 +98,7 @@ How should I behave in the channel and during sessions?
 How can I make the most of this training?
 -----------------------------------------
 
-This summertraining can be a great source of information and provide you with a broad and solid fundament to build your developer skills upon. However, there is much more for you to discover.
+This summertraining can be a great source of information and provide you with a broad and solid fundamentals to build your developer skills upon. However, there is much more for you to discover.
 We are a community that supports each other. We advocate hackerism and openness and would love to welcome you as active participants among us. Talk to other people in the channel and you will most likely find like-minded persons and make some good new friends.
 
 You should respect the following points:
