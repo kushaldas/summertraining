@@ -2,7 +2,7 @@ Good practices
 ===============
 
 Here are a few suggestions on good practices while using computers daily life.
-In this guide we mentioned a few major habits or tools., and then we also
+In this guide we mention a few major habits or tools., and then we also
 provide links to documents to learn more about those habits or tools.
 
 .. note:: You should read the previous chapter first, and then only start reading this
@@ -10,7 +10,7 @@ provide links to documents to learn more about those habits or tools.
 
 .. figure:: img/we_have_dave.jpeg
 
-.. warning:: But, always remember, no technology can help user errors. So, think before you click any link or execute any random command.
+.. warning:: But, always remember, no technology can help mitigate risks from user errors. So, think before you click any link or execute any random command.
 
 
 Keep your machine updated
@@ -18,10 +18,10 @@ Keep your machine updated
 
 Always keep all the software updated. There are always new security updates
 available, and we should install them as soon as possible. This is true not
-only for normal computers, but, also for mobile phones and any other modern
-smart home internet things.
+only for desktop computers and laptops, but, also for mobile phones and any other modern
+smart home internet connected things.
 
-If you don't update your computer regularly, or else an attacker can find out
+If you do not update your computer regularly an attacker can find out
 the vulnerabilities in older version of the software or in the older version
 of the operating system you are running and attack your computer. Remember
 your threat model, think about what all things can go wrong if someone gets
@@ -32,8 +32,8 @@ access your computer because of older vulnerable software.
 Use strong and unique passwords
 -------------------------------
 
-We should use unique passwords in different places. Otherwise, if someone can
-get hold of one of your password, they can break into other sites/places with
+We should always use unique passwords in different places. Otherwise, if someone can
+get hold of one of your passwords, they can break into other sites/places with
 the same password. We suggest using `diceware
 <https://github.com/ulif/diceware>`_ to generate all of your passwords. To
 learn more, please read `this blog post
@@ -43,7 +43,7 @@ learn more, please read `this blog post
 Use password managers
 -----------------------
 
-Password managers will help you to store all of those long passphrases in one
+Password managers will help you to store all of those long and complicated passphrases in one
 place. Learn from the guide about `password managers <https://medium.com/@mshelton/password-managers-for-beginners-d1f49866f80f>`_.
 `KeePassXC <https://medium.com/@mshelton/keypass-for-beginners-dc8adfcdad54>`_ is a good option on desktop.
 
@@ -54,7 +54,7 @@ for newbies. Many of us also use `1Password <https://mshelton.medium.com/introdu
 Do not keep the computer unlocked
 ----------------------------------
 
-If you are not in front of the computer, then always lock the screen. Do not
+If you are not in front of the computer, then always remember to lock the screen. Do not
 keep the computer unlocked, let it be inside your house, or in your hostel, or
 in anywhere else. This is again an habit, and it takes time to make this
 habit. Having the computer always password protected will make sure that any
@@ -68,8 +68,8 @@ The following is `an incident <https://www.dailydot.com/debug/gibberish-tweet-u-
 Cover up your webcam
 ---------------------
 
-Over the last few years it became very well known that big agencies and
-criminals can access people's webcams and record without anyone knowing.
+Over the last few years it became very well known that certain surveillance focused agencies and
+criminals can access webcams and record without the knowledge of the user.
 Covering up your laptop webcam will protect you at one level against these
 criminal activities. Here is `story
 <http://thehill.com/policy/national-security/295933-fbi-director-cover-up-your-webcam>`_
@@ -82,7 +82,7 @@ Take regular backups
 
 One should always backup their computer, and if possible more than one backup
 copy. For example, you should at least backup your ssh keys, gpg keys, and all
-other important configs in couple of **encrypted usb drives**.
+other important configuration files in more than one **encrypted usb drives**.
 
 .. note:: Learn how to encrypt your USB drives below
 
@@ -90,11 +90,11 @@ other important configs in couple of **encrypted usb drives**.
 Enable 2 factor authentication (2FA)
 -------------------------------------
 
-Enable 2 factor authentication in all the websites or applications (if they
-allow it). This will provide a second layer of security incase someone finds
+Enable 2 factor authentication for all the websites or applications (if they
+support 2FA). This will provide a second layer of security incase someone finds
 your password.
 
-If possible also stay away from SMS based 2 factor authentication. Instead,
+If possible also stay away from SMS/text based 2 factor authentication. Instead,
 use the mobile applications like **FreeOTP**, **Google Authenticator**,
 **Authy**. These generates time based tokens which can be used as 2FA.
 
@@ -106,9 +106,9 @@ To know more which all sites provides 2 factor authentication, visit
 Encrypt all USB drives
 ------------------------
 
-While installing Linux in your system, you can encrypt the whole drive. This
-will help in case your laptop is stolen or taken away by someone. This also means
-try to keep your laptop in shutdown state most of the time, so that to boot the system,
+While installing Linux on your system, you can encrypt the entire drive. This
+will help in the event your laptop is stolen or taken away by someone. This also means
+that it is a good practice to keep your laptop in shutdown state when it is not being used. This would mean that to boot the system,
 one will have to provide the encryption password.
 
 - For mac follow this `guide <https://support.apple.com/en-us/HT204837>`_.
@@ -117,13 +117,13 @@ one will have to provide the encryption password.
           Follow `this guide <`https://freedom.press/training/encryption-toolkit-media-makers-veracrypt-guide/>`_ to learn the usage.
 
 
-The same goes to the all USB devices you use. We have much bigger chance to
+The same goes for all USB devices you use. We have much bigger chance to
 misplace or forget about small USB devices. `How to encrypt USB devices using
 LUKS <https://kushaldas.in/posts/encrypting-drives-with-luks.html>`_ has all
 the details you need to know to encrypt or decrypt any USB device.
 
 
-Once again this is tied to your threat model, if you share or copy any kind of
+Once again this is linked to your threat model, if you share or copy any kind of
 sensitive documents (or example personal photos, or bank documents, or vital
 other documents), having them in an encrypted device will help in case the
 drive gets lost, or stolen.
@@ -131,10 +131,10 @@ drive gets lost, or stolen.
 Do not download and install random software from internet
 ----------------------------------------------------------
 
-Do not download software from any random site and install them on your
+Do not download software from any random or unknown site and install them on your
 computer. They may have malware or virus in them, which can attack not only
 your computer, but also all the computers in the network. The same goes about
-any software which says to execute some random shell script from internet.
+any software which needs to execute some random shell script from the internet.
 
 On the other hand, one should always check different applications installed in
 a computer, and remove the applications which we are not using regularly. This
@@ -144,7 +144,7 @@ will reduce the attack surface.
 Do not plug random USB devices into your computer
 --------------------------------------------------
 
-If you ever find any random USB device in the parking lot, or on footpath, or
+If you ever find any unknown USB device in the parking lot, or on footpath, or
 in college, do not plug that into your computer. This is one easiest way
 people spread malware and systems get compromised. The same goes for [any USB
 device handed over in a
