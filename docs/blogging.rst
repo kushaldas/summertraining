@@ -188,7 +188,7 @@ General writing suggestions
 | How you overcame them and how **you seek to help others** with the the wisdom and experience you’ve now gained.
 
 
-`Junot Diaz <https://littlevillagemag.com/interview-pulitzer-prize-winning-author-junot-diaz-talks-immigration-civic-responsibility-ahead-of-visit/>`__ has good advice
+Some author in the past shared this good advice in an interview …
 
     | What advice would you give to aspiring writers trying to decide their next move?
     | 
