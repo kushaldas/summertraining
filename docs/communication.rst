@@ -67,7 +67,7 @@ You can mark outgoing emails as plain text emails in the gmail web frontend.
 Mailing list
 =============
 
-Please join in our `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgplug.org>`_.
+Please join in our `mailing list <https://mail.python.org/mailman3/lists/dgplug.python.org/>`_.
 Remember not to do top post but only reply inline.
 To avoid top post use E-mail client (Thunderbird, Evolution).
 

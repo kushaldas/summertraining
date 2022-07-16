@@ -9,15 +9,13 @@ The questions are not in any particular order.
 What are the topics covered?
 ----------------------------
 
-`This page <https://dgplug.org/summertraining18/>`_ contains details about the topics covered in the training.
+`The foss.training <https://foss.training>`_ website contains details about the topics covered in the training.
 
 How do I subscribe to the mailing list?
 ---------------------------------------
 
-Go to the `mailing list <http://lists.dgplug.org/listinfo.cgi/users-dgplug.org>`_
-page, put in your name and email id and click subscribe.
-Go to your inbox, open the email that you receive from the list, click on the link there and
-confirm.
+Go to the `mailing list <https://mail.python.org/mailman3/lists/dgplug.python.org/>`_
+page, and then register like any other normal site.
 
 What are the requisites for the training?
 -----------------------------------------
