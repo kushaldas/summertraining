@@ -29,6 +29,10 @@ How do I get the logs?
 
 Find all the old logs at http://dgplug.org/irclogs/
 
+How to check if a session is going on or not?
+---------------------------------------------
+
+PM our bot `batul` with either `class` or `session` as the text. Batul will tell you.
 
 How long does a session run?
 ----------------------------
