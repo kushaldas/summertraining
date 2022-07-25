@@ -84,10 +84,7 @@ Yes, just inform so and leave.
 Is there any calendar available for the sessions?
 --------------------------------------------------
 
-In 2018 we have introduced a new calendar for the summer training. You can
-view it `on web
-<https://calendar.dgplug.org/index.php/apps/calendar/p/yQ8Tq48XMPeCNa8a/dgplug>`_
-or subscribe to it using your favorite calendar application.
+We will enable a calendar in the first week of August to which you can subscribe.
 
 How should I behave in the channel and during sessions?
 -------------------------------------------------------
