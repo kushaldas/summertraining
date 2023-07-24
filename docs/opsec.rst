@@ -8,8 +8,6 @@ provide links to documents to learn more about those habits or tools.
 .. note:: You should read the previous chapter first, and then only start reading this
           chapter.
 
-.. figure:: img/we_have_dave.jpeg
-
 .. warning:: But, always remember, no technology can help mitigate risks from user errors. So, think before you click any link or execute any random command.
 
 
@@ -250,13 +248,3 @@ Now read `SURVEILLANCE SELF-DEFENSE <https://ssd.eff.org/>`_, you will get a
 chance to know things in much more detailed level.
 
 
-Talks from around the world
-============================
-
-Below are a few talks on OPSEC from different conferences around the world.
-
-- `DEF CON 22 Blinding The Surveillance State <https://www.youtube.com/watch?v=xCH_q-xn760&t=3s>`_
-- `#HITB2012KUL D1T3 - The Grugq - OPSEC: Because Jail is for wuftpd <https://www.youtube.com/watch?v=9XaYdCdwiWU>`_
-- `We’re Not Equally Vulnerable to Surveillance | Chris Soghoian at MozFest <https://www.youtube.com/watch?v=zTZbrkV3bs8>`_
-- `DEF CON 22 - Robert Rowley - Detecting and Defending Against a Surveillance State <https://www.youtube.com/watch?v=d5jqV06Yijw>`_
-- `OPSEC for security researchers <https://www.youtube.com/watch?v=MXDCsSZ7g_0&t=1515s>`_
